@@ -41,28 +41,6 @@
 
 ---
 
-## Project Architecture
-
-interactive-book-engine/
-**├── docs/               # General documentation (roadmap, architecture, changelog)
-**├── tests/              # End-to-end or test scripts
-**├── .github/            # GitHub templates, CI workflows
--├── frontend/           # Ionic React project
--│   ├── package.json
--│   ├── ionic.config.json
--│   ├── public/
--│   └── src/
--│       ├── pages/      # Pages (StoryList, ReadStory, HomePage, etc.)
--│       ├── components/ # Reusable React/Ionic components
--│       ├── services/   # Dexie.js config (dbService.ts), business logic
--│       ├── App.tsx     # App root
--│       └── index.tsx   # React entry point
--├── LICENSE             # Project license
--├── README.md           # This file
--└── ...
-
----
-
 ## Technologies Used
 
 - **Ionic React**: A framework for building cross-platform apps (Web, iOS, Android).
