@@ -44,22 +44,22 @@
 ## Project Architecture
 
 interactive-book-engine/
-├── docs/               # General documentation (roadmap, architecture, changelog)
-├── tests/              # End-to-end or test scripts
-├── .github/            # GitHub templates, CI workflows
-├── frontend/           # Ionic React project
-│   ├── package.json
-│   ├── ionic.config.json
-│   ├── public/
-│   └── src/
-│       ├── pages/      # Pages (StoryList, ReadStory, HomePage, etc.)
-│       ├── components/ # Reusable React/Ionic components
-│       ├── services/   # Dexie.js config (dbService.ts), business logic
-│       ├── App.tsx     # App root
-│       └── index.tsx   # React entry point
-├── LICENSE             # Project license
-├── README.md           # This file
-└── ...
+-├── docs/               # General documentation (roadmap, architecture, changelog)
+-├── tests/              # End-to-end or test scripts
+-├── .github/            # GitHub templates, CI workflows
+-├── frontend/           # Ionic React project
+-│   ├── package.json
+-│   ├── ionic.config.json
+-│   ├── public/
+-│   └── src/
+-│       ├── pages/      # Pages (StoryList, ReadStory, HomePage, etc.)
+-│       ├── components/ # Reusable React/Ionic components
+-│       ├── services/   # Dexie.js config (dbService.ts), business logic
+-│       ├── App.tsx     # App root
+-│       └── index.tsx   # React entry point
+-├── LICENSE             # Project license
+-├── README.md           # This file
+-└── ...
 
 ---
 
@@ -194,11 +194,7 @@ For detailed guidelines, check `CONTRIBUTING.md`.
 
 ## License
 
-If you are using a **Proprietary License**, mention it here. For instance:
-
 > This project uses a **Proprietary License**. See LICENSE for details.
-
-_(Replace with MIT/Apache/GPL if you prefer open-source licensing.)_
 
 ---
 
