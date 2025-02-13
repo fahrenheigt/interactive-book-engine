@@ -162,8 +162,6 @@ For detailed guidelines, check `CONTRIBUTING.md`.
 
 - **Unit Tests**:
     
-    bash
-    
     `npm test`
     
     or
