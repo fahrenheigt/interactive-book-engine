@@ -44,9 +44,9 @@
 ## Project Architecture
 
 interactive-book-engine/
--├── docs/               # General documentation (roadmap, architecture, changelog)
--├── tests/              # End-to-end or test scripts
--├── .github/            # GitHub templates, CI workflows
+**├── docs/               # General documentation (roadmap, architecture, changelog)
+**├── tests/              # End-to-end or test scripts
+**├── .github/            # GitHub templates, CI workflows
 -├── frontend/           # Ionic React project
 -│   ├── package.json
 -│   ├── ionic.config.json
